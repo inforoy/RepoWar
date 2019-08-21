@@ -1,2 +1,0 @@
-# RepoWar
-Pruebas con Docker
